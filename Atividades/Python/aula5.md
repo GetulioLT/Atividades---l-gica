@@ -8,7 +8,7 @@
 <h3>
 3°: Faça uma função que recebe um valor inteiro e verifica se o valor é positivo ou negativo. <br><br>
 <h3>
-4°: Faça uma função que recebe um valor inteiro e verifica se o valor é positivo ou negativo. <br><br>
+4°: Faça uma função que recebe por parâmetro o raio de uma esfera e calcula o seu volume (v = 4 / 3 * Pi * R³). <br><br>
 <h3>
 5°: Faça uma função que receba um valor inteiro e positivo e calcula o seu fatorial. <br><br>
 <h3>
