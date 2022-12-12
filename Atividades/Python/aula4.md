@@ -1,8 +1,8 @@
-# Atividades aula 3:
+# Atividades aula 4:
 
 ## Dicionários:
 <h3>
-1°: Crie um dicionario que recebera como chave nome de 5 alunos, e os valeres será calculados com uma media de tres notas.<br><br>
+1°: Crie um dicionario que recebera como chave nome de 5 alunos, e os valores será calculados com uma media de tres notas.<br><br>
 <h3>
 2°: Crie um dicionário que funcionará como uma agenda telefonica, e que ficara adicionando numeros enquanto o usuario quiser.<br><br>
 <h3>
