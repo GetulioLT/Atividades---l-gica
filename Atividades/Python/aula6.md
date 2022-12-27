@@ -27,11 +27,6 @@ d. Se o delta for positivo, a equação possui duas raízes reais; informe-as ao
 Crie um módulo para executar os cálculos e uma função para cada cálculo.
 Use o modulo math e a funçao Sqrt() para encontrar a raiz quadrada.<br><br>
 
-<h3>
-Desafio: Escreva uma função que recebe por parâmetro um valor inteiro e positivo N e retorna o valor de S:<br>
-S = 1 + ½ + 1/3 + ¼ + 1/5 + 1/N. <br><br>
-
-
 ## Respostas: <br>
 
 ## Atividades lógica: <br>
