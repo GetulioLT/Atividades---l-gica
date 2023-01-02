@@ -31,7 +31,7 @@ tentar reformular o código dele, ou simplesmente criar um do zero. Então mãos
 <br><br>
 
 ## Sistema antigo:<br>
-
+https://github.com/GetulioLT/Atividades---l-gica/tree/main/Atividades/c%C3%B3digos/Aula%207
 
 
 
