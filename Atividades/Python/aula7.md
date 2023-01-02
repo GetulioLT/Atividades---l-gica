@@ -1,4 +1,4 @@
-# Atividades aula 6:
+# Atividades aula 7:
 
 ## Revisão:
 <h3>
