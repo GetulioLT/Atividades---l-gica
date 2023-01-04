@@ -39,7 +39,48 @@ print(alunos)
 
 ## Questão 2:
 ~~~py
+agenda = dict()
 
+print("Bem vindo a agenda telefonica.")
+
+while True:
+    nome = input("Digite o nome da pessoa: ")
+
+    numero = int(input("Digite agora o numero da pessoa: "))
+
+    agenda[nome] = numero
+
+    escolha = input("Digite s para adicionar uma nova pessoa e n para finalizar a agenda: ")
+
+    if escolha.lower() == "n":
+        break
+
+
+for i in agenda:
+    print(f"{i} : {agenda[i]}")
+~~~
+
+## Questão 3:
+~~~py
+agenda = dict()
+
+print("Bem vindo a agenda telefonica.")
+
+while True:
+    nome = input("Digite o nome da pessoa: ")
+
+    numero = int(input("Digite agora o numero da pessoa: "))
+
+    agenda[nome] = numero
+
+    escolha = input("Digite s para adicionar uma nova pessoa e n para finalizar a agenda: ")
+
+    if escolha.lower() == "n":
+        break
+
+
+for i in agenda:
+    print(f"{i} : {agenda[i]}")
 ~~~
 
 https://github.com/GetulioLT/Atividades---l-gica/blob/main/Guias/Python.md
