@@ -62,25 +62,54 @@ for i in agenda:
 
 ## Questão 3:
 ~~~py
-agenda = dict()
+num_paciente = 1
+pacientes = dict()
+info = list()
 
-print("Bem vindo a agenda telefonica.")
+print("Bem vindo ao sistem médico.")
 
 while True:
-    nome = input("Digite o nome da pessoa: ")
+    escolha = int(input("Digite uma das opções abaixo:\n"
+                        "1 - Cadastrar novo paciente;\n"
+                        "2 - Ver todos os pacientes;\n"
+                        "3 - Apagar um paciente;\n"
+                        "0 - Sair do sistema.\n"))
 
-    numero = int(input("Digite agora o numero da pessoa: "))
+    match escolha:
+        case 1:
+            nome = input("Digite o nome do paciente: ")
+            idade = int(input("Digite a idade do paciente: "))
+            peso = float(input("Digite o peso do paciente: "))
+            altura = float(input("Digite a altura do paciente: "))
 
-    agenda[nome] = numero
+            info= [f"nome = {nome}", f"idade = {idade}", f"peso = {peso}", f"altura = {altura}"]
 
-    escolha = input("Digite s para adicionar uma nova pessoa e n para finalizar a agenda: ")
+            pacientes[num_paciente] = info
 
-    if escolha.lower() == "n":
-        break
+            num_paciente += 1
 
+            input("Cadastro feito com sucesso. Aperte enter para continuar...")
 
-for i in agenda:
-    print(f"{i} : {agenda[i]}")
+        case 2:
+            for i in pacientes:
+                print(f"id: {i} - informações: {pacientes[i]}")
+
+            input("Aperte enter para continuar...")
+
+        case 3:
+            for i in pacientes:
+                print(f"id: {i} - informações: {pacientes[i][0]}")
+
+            id = int(input("Digite qual id quer apagar: "))
+
+            pacientes.pop(id)
+
+            input("Paciente apagado com sucesso. Aperte enter para continuar...")
+
+        case 0:
+            break
+
+    print("\n"* 20)
 ~~~
 
 https://github.com/GetulioLT/Atividades---l-gica/blob/main/Guias/Python.md

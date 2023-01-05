@@ -14,7 +14,7 @@ Desafio:crie um sistema integrado para cadastro de pacientes num hospital, onde 
 
 
 ## Respostas: <br>
-
+https://github.com/GetulioLT/Atividades---l-gica/blob/main/Resolução%20de%20Atividades/Python/Aula4.md
 ## Atividades lógica: <br>
 https://github.com/GetulioLT/Atividades---l-gica/blob/main/Guias/Python.md
 ## Menu:

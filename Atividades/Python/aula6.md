@@ -2,7 +2,7 @@
 
 ## Módulos:
 <h3>
-1°: faça uma calculadora de área, onde terá as opções de: quadrado, retângulo, triângulo, circulo. Faça uuma função para cada calculos e que eles fiquem em um módulo só com as funções.<br>
+1°: faça uma calculadora de área, onde terá as opções de: quadrado, retângulo, triângulo, circulo. Faça uma função para cada calculos e que eles fiquem em um módulo só com as funções.<br>
 obs.: importe a biblioteca Math se for necessário.<br><br>
 
 <h3>

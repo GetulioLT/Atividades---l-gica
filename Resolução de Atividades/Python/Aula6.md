@@ -1,5 +1,10 @@
 # Função:
 ## Questão 1:
+### Main
+~~~py
+
+~~~
+### Functions
 ~~~py
 
 ~~~
