@@ -36,7 +36,7 @@ https://github.com/GetulioLT/Atividades---l-gica/tree/main/Atividades/c%C3%B3dig
 
 
 ## Respostas: <br>
-
+https://github.com/GetulioLT/Atividades---l-gica/blob/main/Resolu%C3%A7%C3%A3o%20de%20Atividades/Python/Aula7.md
 ## Atividades lógica: <br>
 https://github.com/GetulioLT/Atividades---l-gica/blob/main/Guias/Python.md
 ## Menu:
